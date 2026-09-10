@@ -2,8 +2,7 @@
 # Cayman Archer — Personal Portfolio
 
 A portfolio site built from scratch in HTML and CSS for WRIT 40363.
-It introduces who I am, what I am learning, and the work I have made.
-
+It represents me personally and professionally, and I hope you enjoy browsing the site. 
 **Live site:** https://caymanarcher.github.io/portfolio-caymanarcher
 
 ## Built with
@@ -14,5 +13,4 @@ It introduces who I am, what I am learning, and the work I have made.
 
 ## Notes
 
-The accent color and font pairing were chosen in Lab 10.5. Contrast
-was verified against WCAG AA.
+This website was created for Project 1 in my Multimedia Authoring class at TCU, and it shows my work and images I have taken. It is still in progress, but it should be completed soon. 
