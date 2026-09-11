@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
 /* ==========================
    1. RESET
    ========================== */
@@ -43,8 +44,8 @@ img {
     --text-h1: 2.25rem;
     --leading-body: 1.6;
     --leading-heading: 1.2;
-    --font-stack: --font-stack: 'Inter', system-ui, -apple-system, sans-serif;
-    --font-serif: 'Lora', Georgia, serif; 
+    --font-stack: 'Manrope', sans-serif;
+    --font-serif: 'Manrope', Georgia, serif; 
     h1, h2, h3 {
     font-family: var(--font-serif);
     line-height: var(--leading-heading);
