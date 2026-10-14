@@ -1,4 +1,3 @@
-# portfolio-caymanarcher
 # Cayman Archer — Personal Portfolio
 
 A portfolio site built from scratch in HTML and CSS for WRIT 40363.
