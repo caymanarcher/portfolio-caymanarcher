@@ -12,4 +12,4 @@ It represents me personally and professionally, and I hope you enjoy browsing th
 
 ## Notes
 
-This website was created for Project 1 in my Multimedia Authoring class at TCU, and it shows my work and images I have taken. It is still in progress, but it should be completed soon. 
+I created this website for Project 1 in my Multimedia Authoring class at TCU; it showcases the projects I completed throughout the course and the skills I developed from those projects. There is also a bit about me to give a broader scope of who I am. 
